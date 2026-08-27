@@ -5,9 +5,8 @@ solve a concrete problem — and taking apart the layers underneath them.
 The best part of any project is watching someone actually use it.
 
 Always open to collaborating, and always looking to learn something new.
-Long term, I'm aiming to work in the US — NASA and Apple are the two that
+Long-term, I'm aiming to work in the US — NASA and Apple are the two that
 made me want to do this in the first place.
-## Tech Stack
 
 ## Tech Stack
 
