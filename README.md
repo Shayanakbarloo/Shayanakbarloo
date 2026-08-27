@@ -41,4 +41,4 @@ nobody sees before the game starts.
 Sharpening my fundamentals, working on some projects (coming soon) and looking for opportunities to build
 something bigger.
 
-📫 Reach me at: akbarlooshayan@gamil.com # Shayanakbarloo-
+📫 Reach me at: akbarlooshayan@gamil.com # Shayanakbarloo
