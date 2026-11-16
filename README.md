@@ -18,6 +18,9 @@ made me want to do this in the first place.
 **Tools:** Git, GitHub, Vercel
 
 ## Projects
+### [space6ix health monitor_nasa_app][(https://github.com/Shayanakbarloo/space6ix-health-monitor_nasa_app.git)] · [Live](https://space6ix-health-monitornasaapp.vercel.app/)
+Health monitoring for a crew that cannot call a doctor. Built for the NASA Space Apps Challenge 2026, "Create Health Monitoring Software for Astronauts on Space Missions".
+SOMA checks every reading with rules adapted to spaceflight. Each reading is compared with the person's own pre-flight value and with what is known from past missions, not with the normal ranges on an Earth lab report.
 
 ### [My Accountant](https://github.com/Shayanakbarloo/my-accountant) · [Live](https://my-accountant-gamma.vercel.app)
 A personal finance app that starts from your hourly wage and works out what
